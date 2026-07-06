@@ -6,6 +6,8 @@
 
 Una aplicación interactiva impulsada por **Inteligencia Artificial** que predice el resultado exacto (marcador y probabilidades) de cualquier enfrentamiento entre selecciones nacionales de fútbol.
 
+👉 **[¡Prueba la Aplicación Web en Vivo Aquí!](https://mlmundial2026-6amubt29ahok6empdyro2f.streamlit.app/)** 👈
+
 ## 🧠 ¿Cómo funciona la Inteligencia Artificial?
 
 Este modelo no se basa en el azar ni en encuestas. Utiliza un motor predictivo robusto construido con **HistGradientBoostingClassifier** que analiza millones de datos. Su inteligencia se apoya en tres pilares fundamentales:
