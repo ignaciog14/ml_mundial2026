@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,tournament,neutral
+2010-01-03,Germany,Belgium,3,2,FIFA World Cup qualification,False
+2010-01-05,Spain,Uruguay,2,1,Friendly,False
+2010-01-21,Spain,Uruguay,4,0,Friendly,False
+2010-01-28,Netherlands,Italy,2,1,Friendly,True
+2010-01-28,Argentina,Portugal,2,1,Friendly,True
+2010-02-05,England,Argentina,0,1,Friendly,False
+2010-02-13,Brazil,Spain,1,2,FIFA World Cup qualification,True
+2010-03-09,England,Spain,1,1,FIFA World Cup qualification,False
+2010-03-19,France,Netherlands,3,0,Friendly,False
+2010-03-20,Argentina,France,0,3,Friendly,True
+2010-03-24,Spain,Portugal,1,0,Friendly,True
+2010-03-26,Brazil,France,2,3,Friendly,False
+2010-03-26,Brazil,France,2,1,Friendly,False
+2010-03-31,Uruguay,Brazil,1,2,FIFA World Cup qualification,False
+2010-04-06,Netherlands,Belgium,2,0,FIFA World Cup qualification,False
+2010-04-09,Argentina,Spain,2,1,FIFA World Cup qualification,False
+2010-04-17,Uruguay,France,0,3,Friendly,True
+2010-04-19,Netherlands,England,0,1,Friendly,False
+2010-04-23,Spain,Argentina,1,2,FIFA World Cup,True
+2010-05-04,Portugal,Brazil,1,0,Friendly,False
+2010-05-14,Uruguay,France,1,2,FIFA World Cup qualification,True
+2010-05-17,England,Uruguay,1,0,Friendly,False
+2010-05-24,England,Argentina,1,1,FIFA World Cup qualification,True
+2010-05-28,Argentina,Belgium,4,4,Friendly,True
+2010-06-08,Belgium,Portugal,0,1,Friendly,False
+2010-06-20,Argentina,Uruguay,2,1,FIFA World Cup qualification,False
+2010-06-21,Portugal,Brazil,2,2,FIFA World Cup,False
+2010-06-21,Brazil,Germany,0,2,Friendly,True
+2010-06-28,Uruguay,Spain,0,2,Friendly,True
+2010-06-30,Croatia,Netherlands,1,1,Friendly,True
+2010-07-06,Portugal,Italy,0,2,FIFA World Cup qualification,True
+2010-07-09,Belgium,Italy,0,1,Friendly,False
+2010-07-11,France,Croatia,5,1,Friendly,False
+2010-07-12,England,Italy,1,0,Friendly,False
+2010-07-24,Germany,Portugal,1,1,FIFA World Cup qualification,False
+2010-07-24,Belgium,Argentina,1,2,Friendly,True
+2010-07-24,Italy,Netherlands,1,1,FIFA World Cup,True
+2010-07-26,Croatia,France,0,1,Friendly,False
+2010-07-28,Croatia,Uruguay,2,0,FIFA World Cup qualification,False
+2010-07-29,Argentina,Italy,1,0,Friendly,True
+2010-07-30,England,Spain,1,3,Friendly,True
+2010-08-03,Argentina,France,0,2,Friendly,False
+2010-08-05,Croatia,Brazil,2,1,Friendly,False
+2010-08-05,Italy,Germany,1,0,FIFA World Cup qualification,True
+2010-08-16,Portugal,Netherlands,0,2,FIFA World Cup qualification,True
+2010-08-17,Brazil,Spain,2,0,Friendly,False
+2010-08-28,Argentina,England,2,0,Friendly,False
+2010-09-01,Portugal,Croatia,0,2,Friendly,True
+2010-09-11,Belgium,Italy,0,2,FIFA World Cup qualification,True
+2010-09-13,Belgium,Portugal,0,2,Friendly,True
+2010-09-14,Netherlands,Italy,2,1,FIFA World Cup qualification,False
+2010-09-14,Argentina,Netherlands,3,2,FIFA World Cup,True
+2010-09-14,France,Brazil,1,2,Friendly,False
+2010-09-16,Croatia,Portugal,1,0,Friendly,True
+2010-09-22,Uruguay,Belgium,2,1,FIFA World Cup qualification,False
+2010-09-28,Spain,Portugal,2,2,FIFA World Cup,False
+2010-09-28,Argentina,England,5,1,Friendly,True
+2010-10-03,Netherlands,Germany,1,4,Friendly,False
+2010-10-04,Brazil,Uruguay,6,2,FIFA World Cup qualification,False
+2010-10-05,Belgium,Argentina,5,3,FIFA World Cup,True
+2010-10-13,Uruguay,France,0,1,FIFA World Cup qualification,True
+2010-10-24,Germany,Argentina,0,2,FIFA World Cup qualification,True
+2010-10-31,Portugal,Croatia,1,0,FIFA World Cup qualification,False
+2010-11-02,England,Croatia,2,0,Friendly,True
+2010-11-02,Argentina,England,2,2,FIFA World Cup qualification,True
+2010-11-05,Germany,England,2,1,Friendly,False
+2010-11-07,Argentina,England,2,3,Friendly,False
+2010-11-11,Croatia,Germany,1,0,Friendly,True
+2010-11-14,England,Brazil,2,3,Friendly,True
+2010-11-17,Argentina,France,4,1,FIFA World Cup qualification,False
+2010-12-05,Germany,Belgium,3,1,Friendly,False
+2010-12-18,Argentina,Germany,1,2,Friendly,False
+2010-12-19,Netherlands,Belgium,1,1,Friendly,True
+2010-12-21,Portugal,France,1,1,FIFA World Cup qualification,False
+2010-12-21,Spain,France,3,2,FIFA World Cup qualification,True
+2010-12-23,Belgium,Italy,4,1,Friendly,True
+2010-12-31,Croatia,Spain,3,1,FIFA World Cup qualification,True
+2011-01-11,Netherlands,Brazil,2,4,FIFA World Cup,False
+2011-01-11,Belgium,Brazil,1,3,Friendly,False
+2011-01-15,Argentina,Belgium,2,1,Friendly,True
+2011-01-18,Argentina,Germany,2,2,Friendly,True
+2011-01-19,England,Brazil,0,1,Friendly,True
+2011-01-22,Argentina,Germany,0,0,Friendly,True
+2011-01-27,Uruguay,Portugal,2,3,FIFA World Cup qualification,False
+2011-01-31,Croatia,France,0,0,FIFA World Cup,True
+2011-02-08,Netherlands,Croatia,1,1,Friendly,True
+2011-02-21,Portugal,Belgium,0,0,FIFA World Cup qualification,True
+2011-03-11,Argentina,Portugal,3,1,Friendly,True
+2011-03-16,Brazil,England,1,3,FIFA World Cup qualification,True
+2011-03-18,Brazil,France,0,3,Friendly,False
+2011-03-22,Brazil,Italy,0,1,Friendly,True
+2011-03-26,Uruguay,Italy,1,1,FIFA World Cup qualification,True
+2011-03-30,England,Belgium,2,2,Friendly,True
+2011-04-02,Italy,Netherlands,1,1,Friendly,True
+2011-04-04,Italy,Spain,0,1,Friendly,False
+2011-04-06,Uruguay,Argentina,0,4,FIFA World Cup qualification,False
+2011-04-07,Argentina,Croatia,5,1,Friendly,False
+2011-04-10,Uruguay,Germany,3,2,FIFA World Cup qualification,False
+2011-04-18,Germany,Portugal,2,4,FIFA World Cup qualification,True
+2011-04-18,Argentina,Belgium,0,1,FIFA World Cup qualification,False
+2011-05-12,Brazil,England,2,1,Friendly,True
+2011-05-13,Portugal,Spain,2,1,Friendly,False
+2011-05-15,Italy,Brazil,1,5,Friendly,False
+2011-05-15,Belgium,Spain,3,3,FIFA World Cup qualification,True
+2011-05-16,England,France,1,2,Friendly,True
+2011-05-16,England,Uruguay,4,0,FIFA World Cup qualification,False
+2011-05-17,Argentina,Croatia,5,0,FIFA World Cup,True
+2011-05-31,Portugal,Italy,4,1,FIFA World Cup qualification,True
+2011-06-01,Belgium,Portugal,1,1,FIFA World Cup,True
+2011-06-07,Germany,Spain,0,3,Friendly,True
+2011-06-08,France,England,4,2,Friendly,False
+2011-06-10,Portugal,Netherlands,1,2,FIFA World Cup,True
+2011-06-12,England,Brazil,5,0,FIFA World Cup,False
+2011-06-26,France,Portugal,2,0,FIFA World Cup qualification,False
+2011-06-26,Italy,Portugal,1,4,Friendly,False
+2011-07-03,Uruguay,Netherlands,3,1,Friendly,True
+2011-07-04,Uruguay,Brazil,3,3,FIFA World Cup,True
+2011-07-11,France,Spain,4,0,FIFA World Cup qualification,True
+2011-07-11,Portugal,Spain,2,1,Friendly,True
+2011-07-24,Brazil,Belgium,2,0,FIFA World Cup qualification,False
+2011-08-02,France,Portugal,0,0,FIFA World Cup qualification,False
+2011-08-02,Portugal,Argentina,1,0,FIFA World Cup qualification,False
+2011-08-03,Croatia,England,3,0,Friendly,False
+2011-08-08,Uruguay,Portugal,0,3,Friendly,True
+2011-08-09,Portugal,Brazil,2,1,Friendly,False
+2011-08-15,England,Uruguay,2,2,Friendly,False
+2011-08-16,Brazil,England,2,0,FIFA World Cup qualification,True
+2011-08-17,England,Brazil,2,2,FIFA World Cup,False
+2011-08-18,Argentina,Croatia,0,1,FIFA World Cup qualification,False
+2011-08-21,England,Uruguay,5,0,FIFA World Cup qualification,True
+2011-09-04,Croatia,Brazil,1,2,FIFA World Cup qualification,False
+2011-09-08,Uruguay,Croatia,3,2,Friendly,False
+2011-09-08,Croatia,Italy,1,5,FIFA World Cup qualification,True
+2011-09-08,Croatia,Uruguay,2,3,FIFA World Cup qualification,False
+2011-09-18,Spain,France,2,2,FIFA World Cup qualification,True
+2011-09-18,Brazil,Germany,1,3,Friendly,True
+2011-09-18,Netherlands,France,1,2,Friendly,True
+2011-09-21,England,Uruguay,3,1,Friendly,True
+2011-09-25,Netherlands,Uruguay,2,1,Friendly,False
+2011-09-27,Italy,Belgium,1,0,FIFA World Cup,False
+2011-10-01,England,Italy,3,2,FIFA World Cup qualification,False
+2011-10-01,France,Germany,3,0,FIFA World Cup,False
+2011-10-04,Uruguay,Brazil,1,3,FIFA World Cup qualification,False
+2011-10-06,Germany,Belgium,3,1,Friendly,False
+2011-10-22,Argentina,Portugal,2,1,Friendly,True
+2011-10-23,Belgium,Portugal,1,0,Friendly,False
+2011-10-24,Brazil,Argentina,3,2,Friendly,True
+2011-10-29,Argentina,Spain,0,0,FIFA World Cup qualification,False
+2011-10-29,Croatia,Germany,2,1,FIFA World Cup,True
+2011-11-03,Italy,Brazil,1,1,FIFA World Cup qualification,False
+2011-11-11,Germany,Brazil,4,1,Friendly,True
+2011-11-12,Belgium,Italy,2,2,Friendly,True
+2011-11-19,Germany,Italy,2,1,Friendly,False
+2011-11-22,Spain,Germany,6,3,FIFA World Cup qualification,True
+2011-11-24,Netherlands,Italy,1,3,Friendly,True
+2011-11-25,Uruguay,Spain,2,3,Friendly,False
+2011-12-05,Germany,Netherlands,1,3,Friendly,True
+2011-12-09,Brazil,Netherlands,4,0,FIFA World Cup qualification,True
+2011-12-14,Netherlands,Portugal,2,4,FIFA World Cup,True
+2011-12-21,England,Uruguay,1,0,Friendly,True
+2011-12-29,Croatia,Brazil,2,0,Friendly,False
+2012-01-02,Netherlands,Croatia,2,3,FIFA World Cup,True
+2012-01-11,Uruguay,Argentina,1,1,Friendly,False
+2012-01-16,England,France,1,3,Friendly,False
+2012-01-21,Croatia,Germany,0,1,Friendly,False
+2012-01-24,Germany,Spain,0,3,Friendly,True
+2012-01-25,Croatia,Argentina,4,4,FIFA World Cup qualification,False
+2012-01-28,Portugal,Belgium,0,2,FIFA World Cup,True
+2012-02-02,Italy,Germany,3,3,Friendly,True
+2012-02-09,Netherlands,France,0,1,Friendly,True
+2012-02-14,Spain,Croatia,1,1,FIFA World Cup qualification,True
+2012-02-14,France,Netherlands,0,1,Friendly,False
+2012-02-21,Uruguay,Netherlands,0,1,Friendly,True
+2012-02-25,Germany,Netherlands,2,0,FIFA World Cup qualification,False
+2012-02-29,Spain,Netherlands,2,3,Friendly,True
+2012-03-03,Germany,Netherlands,2,1,Friendly,False
+2012-03-08,Germany,Uruguay,1,1,FIFA World Cup,True
+2012-03-13,Portugal,Netherlands,2,1,FIFA World Cup qualification,False
+2012-03-15,Portugal,Netherlands,3,0,FIFA World Cup qualification,False
+2012-03-19,Germany,Spain,0,3,FIFA World Cup qualification,True
+2012-04-04,Spain,Portugal,2,2,FIFA World Cup,True
+2012-04-07,Argentina,Netherlands,0,2,FIFA World Cup qualification,True
+2012-04-13,Argentina,France,0,0,Friendly,True
+2012-04-30,England,Portugal,1,1,FIFA World Cup,False
+2012-05-12,Croatia,Spain,2,3,FIFA World Cup qualification,False
+2012-05-16,Italy,Spain,3,3,FIFA World Cup qualification,True
+2012-05-17,Spain,Croatia,0,2,FIFA World Cup,False
+2012-05-21,Croatia,Brazil,1,3,FIFA World Cup qualification,True
+2012-05-23,Croatia,Belgium,0,2,Friendly,False
+2012-05-30,Argentina,Brazil,2,0,Friendly,True
+2012-06-08,Germany,Brazil,3,2,Friendly,False
+2012-06-13,Uruguay,Brazil,1,3,Friendly,True
+2012-06-14,Spain,Croatia,3,0,FIFA World Cup qualification,False
+2012-06-19,Argentina,Germany,0,2,Friendly,True
+2012-06-20,Netherlands,England,0,3,Friendly,True
+2012-06-22,Germany,Argentina,2,0,Friendly,False
+2012-06-23,Brazil,Belgium,4,2,FIFA World Cup qualification,False
+2012-06-25,Italy,Spain,3,1,FIFA World Cup qualification,True
+2012-06-28,England,Belgium,1,1,FIFA World Cup qualification,True
+2012-07-01,England,Italy,2,2,FIFA World Cup qualification,False
+2012-07-03,Uruguay,Brazil,0,1,Friendly,False
+2012-07-03,Spain,Uruguay,2,1,Friendly,True
+2012-07-05,Croatia,Brazil,3,2,FIFA World Cup qualification,False
+2012-07-11,Croatia,Portugal,4,0,Friendly,True
+2012-07-22,Italy,France,3,1,Friendly,True
+2012-07-24,Italy,Croatia,2,1,Friendly,True
+2012-07-30,Portugal,France,0,2,FIFA World Cup qualification,True
+2012-08-04,Belgium,Uruguay,0,1,Friendly,True
+2012-08-07,Argentina,Portugal,2,1,Friendly,True
+2012-08-12,Belgium,Croatia,0,5,Friendly,False
+2012-08-14,Argentina,France,0,1,Friendly,False
+2012-08-16,France,Brazil,0,1,Friendly,False
+2012-08-17,Netherlands,Belgium,2,3,FIFA World Cup qualification,False
+2012-08-19,Germany,Argentina,4,1,Friendly,False
+2012-08-24,France,Croatia,1,1,Friendly,True
+2012-08-30,France,England,3,1,FIFA World Cup,True
+2012-09-02,Netherlands,Belgium,1,0,FIFA World Cup qualification,False
+2012-09-03,Spain,Croatia,1,0,Friendly,False
+2012-09-07,Croatia,Spain,2,5,Friendly,True
+2012-09-07,Belgium,Uruguay,2,2,Friendly,False
+2012-09-09,Argentina,Germany,2,2,FIFA World Cup,True
+2012-09-18,Portugal,Croatia,0,1,Friendly,False
+2012-09-21,Belgium,Netherlands,1,1,FIFA World Cup qualification,False
+2012-09-23,Uruguay,Netherlands,4,1,FIFA World Cup qualification,False
+2012-09-30,Argentina,Portugal,1,3,FIFA World Cup qualification,False
+2012-10-01,Belgium,Croatia,2,1,Friendly,False
+2012-10-05,England,Spain,0,4,FIFA World Cup,False
+2012-10-10,Uruguay,Brazil,0,1,Friendly,True
+2012-10-10,Brazil,Portugal,4,0,Friendly,True
+2012-10-13,Croatia,Argentina,0,3,FIFA World Cup,True
+2012-10-17,Uruguay,Netherlands,3,3,Friendly,True
+2012-12-05,Portugal,Croatia,0,1,Friendly,True
+2012-12-15,Argentina,Portugal,0,0,Friendly,True
+2012-12-19,Portugal,England,0,2,Friendly,True
+2012-12-21,Croatia,Portugal,1,5,Friendly,True
+2013-01-01,Uruguay,France,0,5,Friendly,True
+2013-01-09,England,Argentina,0,2,FIFA World Cup qualification,True
+2013-01-17,Argentina,Brazil,2,0,Friendly,False
+2013-01-24,France,Germany,2,4,FIFA World Cup qualification,False
+2013-02-05,England,Netherlands,1,3,Friendly,True
+2013-02-10,Brazil,Argentina,1,1,Friendly,False
+2013-02-15,Argentina,Uruguay,4,1,FIFA World Cup qualification,True
+2013-02-15,Belgium,France,4,5,FIFA World Cup qualification,False
+2013-02-17,Belgium,Spain,5,3,FIFA World Cup qualification,True
+2013-02-24,Netherlands,Brazil,1,0,Friendly,True
+2013-02-27,Germany,Italy,4,1,FIFA World Cup,False
+2013-03-06,Croatia,Uruguay,2,1,FIFA World Cup qualification,False
+2013-03-07,Italy,Spain,2,2,Friendly,False
+2013-03-08,Belgium,Brazil,1,0,Friendly,False
+2013-03-10,Germany,Netherlands,2,1,Friendly,True
+2013-03-10,Croatia,England,1,1,FIFA World Cup qualification,False
+2013-03-17,Portugal,England,1,1,Friendly,False
+2013-03-20,Croatia,Portugal,2,4,Friendly,False
+2013-04-02,Uruguay,Portugal,1,2,Friendly,False
+2013-04-06,Belgium,Croatia,2,1,Friendly,True
+2013-04-18,Spain,France,1,1,Friendly,True
+2013-04-20,Netherlands,Argentina,2,4,FIFA World Cup qualification,False
+2013-04-22,Italy,Argentina,0,2,Friendly,True
+2013-04-27,Netherlands,Argentina,1,1,Friendly,True
+2013-05-01,Brazil,Uruguay,2,1,FIFA World Cup qualification,True
+2013-05-02,Germany,Croatia,0,2,FIFA World Cup qualification,True
+2013-05-10,Germany,Uruguay,1,2,FIFA World Cup qualification,True
+2013-05-12,Argentina,France,2,3,FIFA World Cup qualification,False
+2013-05-14,England,Argentina,1,0,Friendly,False
+2013-05-20,Germany,Brazil,2,3,Friendly,False
+2013-05-22,France,England,1,2,Friendly,False
+2013-05-22,England,Uruguay,0,2,Friendly,False
+2013-05-24,Argentina,Belgium,1,1,FIFA World Cup,False
+2013-05-26,Italy,Uruguay,0,0,Friendly,False
+2013-05-26,France,Croatia,1,2,Friendly,False
+2013-05-29,England,Spain,2,1,FIFA World Cup,True
+2013-05-30,Uruguay,France,0,3,FIFA World Cup qualification,False
+2013-06-04,Belgium,England,2,0,Friendly,False
+2013-06-06,Netherlands,Brazil,0,2,Friendly,False
+2013-06-16,Croatia,Spain,0,3,Friendly,True
+2013-06-23,Portugal,Croatia,1,0,Friendly,False
+2013-06-24,England,Portugal,0,1,FIFA World Cup qualification,True
+2013-07-04,Germany,Croatia,1,1,Friendly,True
+2013-07-04,Croatia,Brazil,1,3,Friendly,True
+2013-07-10,Spain,Argentina,1,0,Friendly,True
+2013-07-10,Brazil,Argentina,1,0,FIFA World Cup qualification,False
+2013-07-23,Uruguay,Brazil,3,0,Friendly,False
+2013-07-28,Belgium,Netherlands,1,2,Friendly,False
+2013-08-09,France,Portugal,2,1,FIFA World Cup,True
+2013-08-14,Italy,Brazil,2,3,Friendly,True
+2013-08-22,Croatia,Italy,1,0,Friendly,False
+2013-09-15,Uruguay,Netherlands,2,3,FIFA World Cup,False
+2013-09-17,Croatia,Germany,1,2,Friendly,True
+2013-09-18,France,Brazil,2,1,FIFA World Cup,True
+2013-09-20,Argentina,Croatia,1,2,Friendly,True
+2013-09-25,Croatia,France,3,0,Friendly,False
+2013-09-27,Croatia,France,0,2,FIFA World Cup,False
+2013-09-30,Croatia,Portugal,0,2,Friendly,False
+2013-10-06,France,Netherlands,2,0,Friendly,False
+2013-10-07,Argentina,France,3,2,Friendly,True
+2013-10-10,Belgium,France,1,2,FIFA World Cup qualification,False
+2013-10-19,Argentina,Italy,2,3,Friendly,True
+2013-10-27,Netherlands,England,1,1,FIFA World Cup qualification,False
+2013-11-01,Croatia,Germany,0,1,Friendly,True
+2013-11-05,Italy,Netherlands,1,3,Friendly,False
+2013-11-07,England,Brazil,2,4,FIFA World Cup qualification,False
+2013-11-14,Spain,Brazil,0,2,Friendly,True
+2013-11-25,England,Argentina,1,2,Friendly,True
+2013-11-26,Belgium,Germany,0,1,FIFA World Cup,False
+2013-12-03,Portugal,Belgium,1,1,FIFA World Cup qualification,False
+2013-12-06,Spain,Portugal,0,1,Friendly,True
+2013-12-09,Brazil,Netherlands,3,1,Friendly,False
+2013-12-16,Netherlands,France,3,0,FIFA World Cup qualification,False
+2013-12-18,England,Uruguay,1,1,Friendly,True
+2013-12-20,Netherlands,Brazil,0,2,FIFA World Cup qualification,True
+2013-12-22,Brazil,Portugal,3,2,FIFA World Cup,True
+2013-12-28,France,Croatia,1,0,FIFA World Cup qualification,True
+2013-12-28,Brazil,Croatia,0,0,Friendly,False
+2014-01-11,Belgium,Uruguay,2,1,FIFA World Cup,True
+2014-01-13,Germany,Brazil,3,1,FIFA World Cup qualification,True
+2014-01-14,Belgium,Netherlands,2,4,FIFA World Cup qualification,True
+2014-01-17,Netherlands,Argentina,1,0,Friendly,True
+2014-01-24,Croatia,Spain,2,0,Friendly,True
+2014-01-26,Croatia,Germany,1,3,FIFA World Cup qualification,True
+2014-01-26,Italy,Belgium,1,0,Friendly,True
+2014-01-27,France,Netherlands,1,0,FIFA World Cup qualification,False
+2014-01-30,England,Italy,0,2,FIFA World Cup qualification,True
+2014-01-31,Croatia,Netherlands,1,2,Friendly,True
+2014-02-02,Brazil,Italy,1,2,Friendly,False
+2014-02-17,England,France,2,2,FIFA World Cup qualification,False
+2014-03-02,Germany,France,1,1,Friendly,True
+2014-03-07,Brazil,Germany,2,0,FIFA World Cup qualification,True
+2014-03-12,Italy,Croatia,2,1,FIFA World Cup qualification,True
+2014-03-27,Brazil,Portugal,2,2,Friendly,True
+2014-04-03,Italy,Germany,1,0,Friendly,False
+2014-04-06,Germany,Italy,2,1,FIFA World Cup,True
+2014-04-08,Argentina,Brazil,3,0,Friendly,True
+2014-04-17,England,Brazil,3,3,Friendly,False
+2014-05-04,Uruguay,Belgium,0,2,FIFA World Cup qualification,False
+2014-05-05,Brazil,Italy,2,4,Friendly,False
+2014-05-10,Italy,Netherlands,2,1,FIFA World Cup qualification,True
+2014-05-17,France,Netherlands,1,4,FIFA World Cup qualification,False
+2014-05-21,Italy,Brazil,1,1,Friendly,False
+2014-05-30,Brazil,Belgium,2,2,Friendly,False
+2014-06-02,Belgium,Argentina,1,2,Friendly,True
+2014-06-15,Italy,Netherlands,3,1,FIFA World Cup qualification,False
+2014-06-16,Croatia,Spain,0,1,Friendly,False
+2014-06-18,Portugal,Spain,2,0,Friendly,True
+2014-06-18,Italy,Germany,3,1,Friendly,False
+2014-06-24,Brazil,Belgium,1,0,FIFA World Cup qualification,True
+2014-06-28,Argentina,Netherlands,1,0,FIFA World Cup qualification,False
+2014-07-01,Brazil,Argentina,0,2,Friendly,True
+2014-07-06,England,France,3,2,Friendly,False
+2014-07-07,Croatia,Netherlands,1,2,FIFA World Cup qualification,False
+2014-07-13,Brazil,England,3,1,FIFA World Cup,True
+2014-07-15,Belgium,Spain,1,1,Friendly,True
+2014-07-19,Croatia,Germany,2,1,FIFA World Cup,False
+2014-07-19,Portugal,England,3,2,FIFA World Cup qualification,True
+2014-07-25,Portugal,Netherlands,3,2,Friendly,False
+2014-07-31,Germany,Spain,2,1,Friendly,False
+2014-08-05,France,Germany,1,5,FIFA World Cup,False
+2014-08-08,Netherlands,Argentina,1,4,FIFA World Cup qualification,False
+2014-08-09,Portugal,Argentina,2,3,Friendly,True
+2014-08-09,Brazil,Netherlands,1,1,Friendly,True
+2014-08-09,Spain,Belgium,1,3,FIFA World Cup qualification,False
+2014-08-31,Germany,Argentina,1,1,Friendly,True
+2014-09-03,Spain,Germany,1,1,FIFA World Cup qualification,True
+2014-09-13,Netherlands,Portugal,1,1,Friendly,False
+2014-09-14,Netherlands,England,0,4,Friendly,False
+2014-09-22,Germany,Croatia,0,2,Friendly,False
+2014-09-23,Uruguay,Spain,1,3,FIFA World Cup qualification,True
+2014-09-30,Croatia,Uruguay,3,0,Friendly,False
+2014-10-01,Germany,Spain,1,2,Friendly,False
+2014-10-11,Brazil,Germany,0,2,FIFA World Cup qualification,True
+2014-10-21,France,Portugal,1,0,FIFA World Cup,False
+2014-10-29,Croatia,Belgium,2,0,FIFA World Cup qualification,True
+2014-11-03,Spain,England,0,3,FIFA World Cup,False
+2014-11-09,Belgium,Italy,0,1,Friendly,True
+2014-11-14,Spain,Croatia,0,2,Friendly,False
+2014-11-15,England,Uruguay,2,2,FIFA World Cup qualification,True
+2014-11-18,France,Argentina,3,0,FIFA World Cup qualification,True
+2014-11-23,England,Italy,1,3,Friendly,False
+2014-11-25,Belgium,Netherlands,2,0,FIFA World Cup qualification,True
+2014-11-26,Argentina,Spain,2,1,Friendly,True
+2014-11-30,Argentina,France,0,0,Friendly,False
+2014-12-08,Netherlands,Argentina,0,5,FIFA World Cup qualification,True
+2014-12-09,Brazil,Portugal,0,0,Friendly,True
+2014-12-15,Croatia,England,0,1,Friendly,False
+2014-12-16,Spain,Italy,0,1,FIFA World Cup qualification,True
+2015-01-02,Argentina,Germany,3,2,FIFA World Cup qualification,False
+2015-01-03,Portugal,Germany,1,3,Friendly,False
+2015-01-03,Croatia,Uruguay,2,0,FIFA World Cup qualification,False
+2015-01-05,Brazil,England,1,1,Friendly,True
+2015-01-13,Belgium,Argentina,4,1,Friendly,True
+2015-01-14,Italy,Germany,1,0,FIFA World Cup qualification,True
+2015-01-15,France,Argentina,0,2,FIFA World Cup,True
+2015-01-25,France,Croatia,1,0,Friendly,True
+2015-01-30,France,Croatia,1,3,FIFA World Cup qualification,True
+2015-01-30,Portugal,Netherlands,1,3,FIFA World Cup,False
+2015-02-05,Belgium,France,1,2,Friendly,True
+2015-02-07,Germany,Uruguay,5,2,FIFA World Cup qualification,False
+2015-02-13,Uruguay,England,2,2,Friendly,False
+2015-02-15,England,Italy,1,0,Friendly,True
+2015-02-22,Germany,Uruguay,1,1,Friendly,True
+2015-02-23,Italy,Uruguay,3,2,FIFA World Cup,True
+2015-03-04,Argentina,Netherlands,1,2,FIFA World Cup qualification,False
+2015-03-06,Brazil,Italy,0,4,FIFA World Cup,True
+2015-03-16,Belgium,Brazil,2,1,Friendly,True
+2015-03-26,Belgium,Netherlands,2,4,Friendly,False
+2015-04-02,Spain,Italy,0,0,Friendly,True
+2015-04-03,Portugal,Brazil,1,2,FIFA World Cup qualification,True
+2015-04-17,France,Argentina,4,1,FIFA World Cup,False
+2015-04-21,Netherlands,Italy,0,1,Friendly,False
+2015-04-28,Brazil,Italy,3,1,FIFA World Cup,False
+2015-04-30,Uruguay,Italy,0,1,Friendly,True
+2015-04-30,Portugal,Argentina,0,4,FIFA World Cup qualification,True
+2015-05-02,Argentina,Croatia,3,2,FIFA World Cup qualification,True
+2015-05-03,Germany,Spain,0,2,Friendly,True
+2015-05-21,Netherlands,Spain,0,2,Friendly,True
+2015-05-28,England,Argentina,2,2,FIFA World Cup qualification,False
+2015-05-31,England,Brazil,2,2,Friendly,True
+2015-06-03,Italy,Brazil,1,2,Friendly,False
+2015-06-11,Spain,England,1,1,Friendly,False
+2015-06-13,France,Netherlands,0,0,FIFA World Cup qualification,False
+2015-06-19,Germany,Spain,1,3,Friendly,True
+2015-06-24,Belgium,Netherlands,0,3,Friendly,True
+2015-06-27,Uruguay,Croatia,0,1,FIFA World Cup qualification,True
+2015-07-09,Spain,England,1,2,FIFA World Cup,False
+2015-07-19,Brazil,Uruguay,0,0,FIFA World Cup,False
+2015-07-19,Croatia,England,3,5,Friendly,True
+2015-08-03,Argentina,Italy,1,1,FIFA World Cup,False
+2015-08-04,Portugal,Uruguay,2,1,FIFA World Cup qualification,True
+2015-08-05,Italy,Uruguay,2,1,FIFA World Cup qualification,False
+2015-08-11,Germany,Italy,4,2,FIFA World Cup,True
+2015-08-12,England,Netherlands,3,2,FIFA World Cup,False
+2015-08-15,France,Spain,1,0,Friendly,True
+2015-08-16,Germany,Uruguay,2,4,Friendly,False
+2015-08-18,Portugal,Netherlands,1,0,Friendly,False
+2015-08-23,Spain,France,2,0,Friendly,True
+2015-08-24,Portugal,Uruguay,3,5,Friendly,True
+2015-09-02,Croatia,Brazil,1,1,Friendly,False
+2015-09-02,Croatia,Netherlands,3,2,FIFA World Cup,True
+2015-09-05,Portugal,Uruguay,2,2,Friendly,False
+2015-09-08,Italy,Uruguay,0,0,Friendly,False
+2015-09-15,Brazil,Belgium,1,1,Friendly,True
+2015-09-22,England,Portugal,3,1,Friendly,True
+2015-10-02,Spain,Croatia,3,0,Friendly,True
+2015-10-06,Belgium,Croatia,3,0,Friendly,False
+2015-10-24,Spain,Belgium,0,2,FIFA World Cup qualification,True
+2015-11-03,Italy,Portugal,0,1,FIFA World Cup qualification,True
+2015-11-05,Croatia,Portugal,1,0,FIFA World Cup qualification,True
+2015-11-13,Brazil,Argentina,0,3,FIFA World Cup qualification,True
+2015-11-15,Brazil,Argentina,0,1,FIFA World Cup,False
+2015-11-18,Portugal,Uruguay,2,1,Friendly,False
+2015-11-19,Uruguay,Italy,1,2,Friendly,False
+2015-11-24,England,Germany,2,2,FIFA World Cup qualification,True
+2015-11-25,England,Netherlands,3,4,Friendly,False
+2015-11-28,Germany,Uruguay,2,3,Friendly,False
+2015-11-29,Italy,England,0,3,FIFA World Cup qualification,False
+2015-12-01,Brazil,Spain,1,1,FIFA World Cup,False
+2015-12-13,England,Spain,2,3,Friendly,True
+2015-12-22,Belgium,Spain,3,1,FIFA World Cup qualification,True
+2016-01-04,Belgium,Spain,0,2,Friendly,True
+2016-01-13,Netherlands,England,2,2,Friendly,False
+2016-01-18,France,Argentina,1,4,FIFA World Cup qualification,True
+2016-01-18,Portugal,Brazil,0,2,Friendly,False
+2016-01-28,Croatia,Italy,0,2,Friendly,False
+2016-02-06,England,Uruguay,1,2,FIFA World Cup qualification,True
+2016-02-16,Uruguay,Croatia,1,0,Friendly,False
+2016-02-22,Portugal,Brazil,1,0,Friendly,True
+2016-02-22,France,Germany,1,0,Friendly,True
+2016-02-22,Croatia,Argentina,2,4,Friendly,False
+2016-02-25,Spain,Germany,0,1,FIFA World Cup qualification,True
+2016-03-06,England,Belgium,1,1,Friendly,True
+2016-03-11,Brazil,Germany,1,2,FIFA World Cup qualification,True
+2016-04-03,Brazil,Spain,3,2,Friendly,True
+2016-04-03,Belgium,Italy,1,1,FIFA World Cup qualification,True
+2016-04-14,Portugal,Uruguay,4,4,Friendly,True
+2016-04-16,Spain,Brazil,2,1,Friendly,False
+2016-04-23,Argentina,Belgium,2,0,Friendly,True
+2016-04-26,Belgium,Brazil,1,1,Friendly,True
+2016-04-29,Italy,Netherlands,0,1,FIFA World Cup qualification,False
+2016-04-30,Italy,Netherlands,0,2,Friendly,False
+2016-05-13,Uruguay,Germany,0,2,FIFA World Cup qualification,False
+2016-05-26,Croatia,England,0,0,Friendly,True
+2016-05-28,Argentina,Germany,2,1,Friendly,False
+2016-05-31,Portugal,Uruguay,0,2,Friendly,True
+2016-06-07,Germany,Spain,1,2,Friendly,False
+2016-06-10,France,Belgium,2,2,Friendly,True
+2016-06-10,Brazil,Germany,0,1,Friendly,True
+2016-06-18,Uruguay,Netherlands,1,1,Friendly,False
+2016-06-20,Spain,Uruguay,2,1,FIFA World Cup,True
+2016-06-30,Croatia,Brazil,2,1,FIFA World Cup qualification,False
+2016-06-30,Spain,France,1,2,Friendly,False
+2016-07-07,Belgium,England,1,1,FIFA World Cup qualification,False
+2016-07-09,Uruguay,Croatia,1,1,FIFA World Cup qualification,True
+2016-07-12,Belgium,Germany,2,3,FIFA World Cup qualification,False
+2016-07-14,Croatia,France,1,0,Friendly,False
+2016-07-19,Uruguay,Croatia,0,1,FIFA World Cup qualification,False
+2016-07-30,Brazil,Germany,0,0,Friendly,False
+2016-08-06,Argentina,Uruguay,4,2,Friendly,False
+2016-08-07,France,Portugal,3,2,FIFA World Cup qualification,False
+2016-08-12,Spain,Croatia,1,1,Friendly,True
+2016-08-12,Germany,Spain,2,2,Friendly,False
+2016-08-20,Argentina,Brazil,2,1,Friendly,False
+2016-08-24,Belgium,Argentina,4,4,Friendly,True
+2016-08-25,Netherlands,Brazil,0,3,FIFA World Cup,False
+2016-08-31,France,England,1,1,FIFA World Cup qualification,False
+2016-09-11,Uruguay,Croatia,1,1,Friendly,True
+2016-09-20,Germany,France,1,3,FIFA World Cup qualification,True
+2016-09-25,Netherlands,Germany,3,2,Friendly,False
+2016-10-04,Netherlands,Argentina,0,1,Friendly,False
+2016-10-08,France,Spain,3,2,FIFA World Cup qualification,False
+2016-10-17,Netherlands,Uruguay,3,1,Friendly,False
+2016-10-29,Croatia,Uruguay,1,2,Friendly,True
+2016-11-03,England,Netherlands,1,3,FIFA World Cup,True
+2016-11-05,Italy,Portugal,0,2,FIFA World Cup qualification,False
+2016-11-13,Argentina,Brazil,1,4,FIFA World Cup qualification,True
+2016-11-28,France,Portugal,2,1,FIFA World Cup,True
+2016-12-16,Netherlands,Spain,2,0,Friendly,False
+2016-12-16,Spain,Germany,2,0,FIFA World Cup,False
+2016-12-25,Uruguay,Argentina,1,3,FIFA World Cup,True
+2016-12-26,Italy,England,3,1,Friendly,True
+2016-12-27,France,Uruguay,2,3,Friendly,False
+2016-12-30,Uruguay,Argentina,2,1,Friendly,False
+2017-01-01,Italy,England,1,1,Friendly,False
+2017-01-04,Spain,Netherlands,2,0,Friendly,False
+2017-01-07,Spain,Netherlands,1,0,Friendly,False
+2017-01-08,France,Belgium,2,2,FIFA World Cup qualification,False
+2017-01-08,Argentina,Spain,1,2,Friendly,True
+2017-01-12,Portugal,Brazil,1,0,FIFA World Cup qualification,False
+2017-01-19,England,Croatia,1,1,FIFA World Cup,False
+2017-01-25,Portugal,Croatia,3,1,Friendly,False
+2017-01-28,Italy,Argentina,4,3,Friendly,False
+2017-01-31,France,Croatia,1,1,FIFA World Cup qualification,True
+2017-02-07,Germany,Spain,2,0,FIFA World Cup qualification,True
+2017-02-08,Germany,Brazil,0,2,Friendly,True
+2017-02-09,Portugal,Brazil,1,2,Friendly,False
+2017-02-12,Portugal,England,0,1,Friendly,False
+2017-02-13,Argentina,Belgium,1,0,Friendly,False
+2017-02-17,Belgium,England,1,1,FIFA World Cup,False
+2017-02-26,Portugal,England,0,1,FIFA World Cup qualification,False
+2017-02-27,Portugal,Italy,2,0,Friendly,False
+2017-03-03,Portugal,Croatia,3,0,FIFA World Cup qualification,False
+2017-03-06,Uruguay,Netherlands,0,3,Friendly,True
+2017-03-15,Germany,Brazil,0,1,Friendly,False
+2017-04-11,England,France,2,3,FIFA World Cup qualification,True
+2017-04-13,Croatia,Germany,2,0,Friendly,False
+2017-04-16,Spain,France,0,0,Friendly,True
+2017-04-22,Germany,England,0,3,FIFA World Cup qualification,True
+2017-04-28,France,Portugal,2,1,FIFA World Cup qualification,False
+2017-05-14,Netherlands,France,0,4,FIFA World Cup qualification,True
+2017-05-17,Italy,England,1,2,Friendly,True
+2017-06-01,Italy,Croatia,1,0,Friendly,True
+2017-06-11,Spain,Portugal,3,3,Friendly,True
+2017-06-18,Spain,Netherlands,2,1,FIFA World Cup qualification,True
+2017-06-18,Spain,Italy,2,1,Friendly,False
+2017-06-28,Brazil,Netherlands,2,0,FIFA World Cup,True
+2017-07-03,France,Netherlands,0,0,Friendly,True
+2017-07-03,Italy,Argentina,1,4,Friendly,True
+2017-07-18,Brazil,Belgium,1,1,Friendly,False
+2017-07-19,Netherlands,Belgium,1,3,Friendly,True
+2017-07-24,England,Netherlands,0,4,FIFA World Cup,False
+2017-08-05,Spain,France,0,4,FIFA World Cup qualification,True
+2017-08-05,Portugal,England,1,3,FIFA World Cup,True
+2017-08-12,Argentina,Portugal,0,0,Friendly,True
+2017-08-16,Spain,France,1,2,Friendly,True
+2017-08-19,Brazil,Uruguay,2,3,FIFA World Cup qualification,True
+2017-08-24,France,Italy,1,4,Friendly,True
+2017-08-27,Portugal,Uruguay,1,1,Friendly,True
+2017-09-04,Brazil,Croatia,1,1,Friendly,False
+2017-09-05,Argentina,Croatia,2,2,FIFA World Cup qualification,False
+2017-09-16,Uruguay,Croatia,1,0,Friendly,True
+2017-09-22,Portugal,Italy,2,0,Friendly,False
+2017-09-22,Brazil,Belgium,2,2,FIFA World Cup qualification,False
+2017-10-02,Croatia,Netherlands,3,1,Friendly,False
+2017-10-06,Spain,Argentina,3,5,FIFA World Cup qualification,False
+2017-10-15,Spain,Belgium,1,3,Friendly,True
+2017-10-24,Croatia,Uruguay,2,1,FIFA World Cup qualification,True
+2017-12-02,Argentina,Uruguay,2,1,Friendly,False
+2017-12-04,Brazil,France,2,2,Friendly,False
+2017-12-06,Belgium,Croatia,2,1,Friendly,True
+2017-12-10,France,Uruguay,2,0,Friendly,False
+2017-12-17,Brazil,Croatia,1,2,Friendly,True
+2017-12-20,Italy,Netherlands,3,0,FIFA World Cup qualification,True
+2017-12-21,Italy,Belgium,0,1,Friendly,True
+2017-12-31,England,Croatia,3,1,Friendly,False
+2018-01-05,Argentina,Germany,0,3,FIFA World Cup qualification,True
+2018-01-07,Italy,Portugal,2,0,Friendly,True
+2018-01-13,England,Argentina,2,4,FIFA World Cup qualification,False
+2018-01-17,Belgium,England,0,4,Friendly,False
+2018-01-18,Portugal,England,5,3,FIFA World Cup qualification,True
+2018-01-26,France,Brazil,3,0,Friendly,False
+2018-02-01,Brazil,Italy,1,1,Friendly,True
+2018-02-12,Germany,Belgium,3,3,Friendly,True
+2018-02-17,Italy,Germany,0,0,Friendly,True
+2018-02-17,Argentina,Germany,1,0,Friendly,True
+2018-02-24,France,Italy,1,1,Friendly,True
+2018-02-27,Uruguay,Portugal,0,2,Friendly,False
+2018-03-12,Argentina,Italy,3,2,Friendly,True
+2018-03-14,Uruguay,Spain,0,3,Friendly,False
+2018-03-16,Portugal,Germany,1,1,FIFA World Cup qualification,False
+2018-03-21,England,Netherlands,3,2,Friendly,False
+2018-03-28,France,Uruguay,3,1,Friendly,False
+2018-03-31,Brazil,Spain,0,0,Friendly,True
+2018-04-01,England,France,0,1,FIFA World Cup qualification,True
+2018-04-07,England,Brazil,1,3,FIFA World Cup qualification,False
+2018-04-09,Portugal,England,1,1,Friendly,False
+2018-04-15,Croatia,Brazil,2,3,Friendly,False
+2018-04-18,Netherlands,Portugal,2,1,Friendly,False
+2018-04-21,Argentina,Uruguay,2,2,Friendly,False
+2018-04-25,Netherlands,Belgium,3,0,FIFA World Cup qualification,False
+2018-05-01,Italy,Croatia,2,2,Friendly,False
+2018-05-13,Croatia,Brazil,2,1,Friendly,False
+2018-05-26,Uruguay,Brazil,1,3,Friendly,False
+2018-05-30,Argentina,Brazil,1,1,FIFA World Cup,False
+2018-06-11,Germany,Belgium,0,4,FIFA World Cup qualification,False
+2018-06-18,Brazil,Argentina,3,4,Friendly,True
+2018-06-20,Portugal,Italy,1,1,FIFA World Cup,True
+2018-07-08,England,Spain,0,0,Friendly,False
+2018-07-15,Portugal,Italy,0,0,Friendly,False
+2018-07-27,Italy,France,3,2,Friendly,True
+2018-08-04,Uruguay,Croatia,1,1,Friendly,False
+2018-08-11,Portugal,Uruguay,1,3,FIFA World Cup qualification,False
+2018-08-11,Netherlands,France,3,1,Friendly,True
+2018-08-13,Netherlands,Uruguay,1,1,FIFA World Cup qualification,False
+2018-08-14,England,Brazil,2,4,Friendly,True
+2018-08-22,Spain,Croatia,2,0,Friendly,False
+2018-08-24,Argentina,Croatia,2,0,FIFA World Cup qualification,False
+2018-09-03,Croatia,Italy,1,1,Friendly,False
+2018-09-04,Uruguay,Spain,3,5,Friendly,True
+2018-09-04,Belgium,Uruguay,2,2,Friendly,False
+2018-09-11,Argentina,Spain,1,1,FIFA World Cup qualification,True
+2018-09-21,Croatia,Argentina,2,2,Friendly,False
+2018-09-27,Belgium,Italy,2,0,Friendly,False
+2018-09-27,Netherlands,Croatia,1,0,Friendly,True
+2018-10-01,Brazil,Croatia,2,1,FIFA World Cup qualification,True
+2018-10-07,Spain,Belgium,1,2,FIFA World Cup qualification,False
+2018-10-08,Uruguay,Germany,1,3,Friendly,True
+2018-10-09,England,Belgium,3,1,FIFA World Cup qualification,True
+2018-10-22,Croatia,Argentina,2,1,Friendly,True
+2018-10-23,Uruguay,Portugal,1,0,Friendly,True
+2018-11-02,Argentina,Belgium,2,0,Friendly,True
+2018-11-05,England,Croatia,2,2,FIFA World Cup qualification,False
+2018-11-09,Croatia,Spain,3,2,Friendly,True
+2018-11-11,Brazil,England,1,2,Friendly,False
+2018-11-13,Uruguay,Germany,1,2,Friendly,True
+2018-11-18,Netherlands,Italy,0,0,Friendly,False
+2018-11-22,Argentina,Croatia,0,3,Friendly,True
+2018-11-26,Portugal,Croatia,0,1,Friendly,True
+2018-11-27,France,Portugal,3,1,Friendly,True
+2018-11-30,Spain,Croatia,1,1,FIFA World Cup qualification,False
+2018-12-02,Brazil,Netherlands,2,0,FIFA World Cup,False
+2018-12-04,Italy,Croatia,0,1,Friendly,False
+2018-12-05,Portugal,Spain,0,1,FIFA World Cup,False
+2018-12-05,Brazil,Uruguay,1,1,Friendly,False
+2018-12-07,Belgium,Portugal,1,2,Friendly,False
+2018-12-15,Croatia,Argentina,0,2,Friendly,True
+2018-12-20,Italy,Brazil,0,1,Friendly,True
+2018-12-23,Germany,Portugal,1,0,Friendly,True
+2018-12-29,England,Croatia,3,1,Friendly,False
+2019-01-05,Germany,England,2,1,FIFA World Cup,True
+2019-01-08,Uruguay,Croatia,4,1,Friendly,True
+2019-01-15,Argentina,Belgium,1,0,Friendly,True
+2019-01-18,Spain,Brazil,1,0,Friendly,False
+2019-01-20,Argentina,Germany,3,0,FIFA World Cup qualification,False
+2019-01-22,Argentina,Netherlands,1,2,Friendly,True
+2019-01-24,Netherlands,Italy,1,0,Friendly,True
+2019-02-08,France,Spain,0,1,Friendly,True
+2019-02-10,Netherlands,Argentina,1,3,Friendly,True
+2019-02-16,France,Portugal,1,2,Friendly,False
+2019-03-14,Belgium,Croatia,2,2,Friendly,False
+2019-03-14,Croatia,Spain,1,0,Friendly,True
+2019-03-20,Croatia,Portugal,0,0,Friendly,False
+2019-03-24,England,Belgium,1,2,Friendly,True
+2019-03-28,Netherlands,Portugal,4,0,Friendly,True
+2019-03-29,Croatia,Brazil,3,3,Friendly,True
+2019-04-04,Spain,Croatia,2,1,Friendly,False
+2019-04-05,Brazil,England,1,0,Friendly,False
+2019-04-10,Spain,Netherlands,1,3,Friendly,False
+2019-04-21,England,Brazil,0,1,Friendly,False
+2019-04-25,Germany,Netherlands,2,2,Friendly,True
+2019-04-26,England,Germany,1,2,Friendly,False
+2019-04-30,Argentina,Croatia,0,0,FIFA World Cup qualification,True
+2019-05-02,Uruguay,England,0,1,FIFA World Cup qualification,False
+2019-05-08,Croatia,Portugal,0,1,FIFA World Cup qualification,True
+2019-05-08,Italy,Croatia,4,0,Friendly,False
+2019-05-10,Portugal,Croatia,2,3,Friendly,True
+2019-05-13,Spain,France,4,4,FIFA World Cup,True
+2019-05-15,Belgium,Argentina,4,1,Friendly,True
+2019-05-24,Italy,Spain,1,4,Friendly,True
+2019-05-26,France,Uruguay,1,1,Friendly,False
+2019-06-07,Portugal,Netherlands,1,1,FIFA World Cup qualification,True
+2019-06-09,Croatia,Brazil,2,2,Friendly,True
+2019-06-12,Portugal,Spain,0,2,Friendly,True
+2019-06-14,Germany,Brazil,1,0,Friendly,True
+2019-06-23,Spain,Belgium,3,1,FIFA World Cup qualification,False
+2019-07-03,Portugal,Croatia,4,2,Friendly,False
+2019-07-05,France,Netherlands,1,0,FIFA World Cup qualification,True
+2019-07-24,Belgium,Italy,5,1,FIFA World Cup qualification,True
+2019-07-24,Italy,Argentina,0,1,Friendly,False
+2019-07-24,Germany,Brazil,2,2,Friendly,False
+2019-07-26,Uruguay,Netherlands,1,3,Friendly,True
+2019-07-27,France,Belgium,1,0,Friendly,True
+2019-07-28,Netherlands,Belgium,2,1,Friendly,True
+2019-08-19,Brazil,Uruguay,6,1,Friendly,False
+2019-08-24,Uruguay,Brazil,0,4,Friendly,False
+2019-08-31,Spain,Belgium,1,0,Friendly,False
+2019-09-04,Portugal,England,0,0,FIFA World Cup,False
+2019-09-06,Spain,Netherlands,3,1,Friendly,True
+2019-10-01,Uruguay,Spain,0,0,Friendly,False
+2019-10-02,Germany,Netherlands,1,6,FIFA World Cup qualification,False
+2019-10-08,Croatia,Netherlands,1,0,FIFA World Cup,False
+2019-10-11,Brazil,Italy,0,1,FIFA World Cup qualification,True
+2019-10-15,Italy,Netherlands,1,0,FIFA World Cup qualification,True
+2019-10-15,Belgium,Germany,2,1,FIFA World Cup qualification,True
+2019-10-18,England,Portugal,2,2,FIFA World Cup qualification,False
+2019-10-25,Germany,Spain,1,3,Friendly,True
+2019-10-28,Belgium,Spain,2,1,FIFA World Cup qualification,True
+2019-11-01,Brazil,France,1,2,FIFA World Cup qualification,False
+2019-11-14,Argentina,Spain,0,2,Friendly,True
+2019-11-14,Portugal,Uruguay,3,1,FIFA World Cup qualification,True
+2019-11-28,Croatia,England,2,3,Friendly,True
+2019-11-28,France,England,3,1,FIFA World Cup qualification,True
+2019-12-07,England,Brazil,4,1,FIFA World Cup qualification,False
+2019-12-09,Germany,Spain,0,1,Friendly,False
+2019-12-09,Argentina,Croatia,1,3,FIFA World Cup qualification,False
+2019-12-10,Belgium,Croatia,0,2,FIFA World Cup qualification,True
+2020-01-08,Netherlands,Portugal,1,2,Friendly,True
+2020-01-08,Brazil,France,3,1,Friendly,True
+2020-01-16,Uruguay,Netherlands,1,2,FIFA World Cup qualification,True
+2020-01-18,England,Portugal,2,2,Friendly,False
+2020-01-21,Brazil,Germany,1,1,FIFA World Cup,False
+2020-01-24,Portugal,Netherlands,2,1,FIFA World Cup,True
+2020-01-25,Germany,Belgium,0,0,FIFA World Cup qualification,False
+2020-02-03,France,Italy,0,2,Friendly,True
+2020-02-05,Spain,Germany,2,2,Friendly,True
+2020-02-12,Germany,Argentina,3,1,Friendly,False
+2020-02-15,Uruguay,Brazil,0,5,FIFA World Cup qualification,True
+2020-02-18,Spain,Uruguay,1,0,Friendly,False
+2020-02-19,England,Belgium,3,2,FIFA World Cup qualification,False
+2020-02-29,Croatia,Belgium,3,2,FIFA World Cup qualification,False
+2020-03-08,France,Spain,1,1,Friendly,True
+2020-03-12,Croatia,Portugal,2,3,Friendly,False
+2020-03-12,Italy,Germany,1,4,Friendly,True
+2020-03-15,England,Germany,0,5,FIFA World Cup qualification,True
+2020-03-15,Spain,Italy,2,1,FIFA World Cup qualification,False
+2020-03-20,Brazil,Germany,3,2,Friendly,False
+2020-03-21,Germany,Spain,0,2,FIFA World Cup,False
+2020-03-30,Croatia,France,0,4,Friendly,True
+2020-04-04,Brazil,Germany,0,1,Friendly,False
+2020-04-05,Portugal,Croatia,1,1,Friendly,False
+2020-04-06,France,Brazil,3,1,FIFA World Cup qualification,False
+2020-04-12,France,Belgium,2,0,Friendly,True
+2020-04-18,Portugal,Netherlands,0,2,Friendly,False
+2020-04-19,Uruguay,Italy,1,4,Friendly,True
+2020-04-30,Croatia,Argentina,0,1,FIFA World Cup,False
+2020-05-13,France,England,1,0,Friendly,True
+2020-05-17,Spain,England,2,0,Friendly,True
+2020-05-19,England,Belgium,2,0,Friendly,True
+2020-05-26,Netherlands,Croatia,1,6,Friendly,False
+2020-06-02,Croatia,England,2,4,Friendly,True
+2020-06-04,Netherlands,Brazil,0,2,Friendly,False
+2020-06-05,Portugal,Argentina,1,2,Friendly,False
+2020-06-12,Portugal,Germany,0,1,Friendly,True
+2020-06-25,Netherlands,France,1,3,Friendly,False
+2020-06-27,Brazil,Belgium,2,0,Friendly,False
+2020-07-12,France,Brazil,1,0,FIFA World Cup qualification,True
+2020-07-23,Germany,France,2,2,FIFA World Cup qualification,False
+2020-07-25,Brazil,Germany,0,0,FIFA World Cup qualification,False
+2020-07-29,Brazil,Croatia,2,5,FIFA World Cup,True
+2020-08-01,England,Uruguay,1,2,FIFA World Cup,False
+2020-08-08,Croatia,Uruguay,3,1,Friendly,True
+2020-08-13,Spain,Netherlands,1,0,Friendly,True
+2020-08-17,Italy,Brazil,3,0,Friendly,False
+2020-08-19,Argentina,Portugal,4,0,Friendly,True
+2020-08-23,Belgium,Italy,0,1,FIFA World Cup qualification,False
+2020-08-26,Brazil,Belgium,1,1,Friendly,False
+2020-09-03,Germany,Spain,2,1,Friendly,True
+2020-09-04,Spain,Uruguay,6,0,FIFA World Cup,False
+2020-09-13,Italy,England,1,2,Friendly,False
+2020-09-19,Belgium,France,1,1,Friendly,True
+2020-09-25,Spain,Italy,1,2,Friendly,False
+2020-09-30,Uruguay,France,1,4,Friendly,True
+2020-10-05,Netherlands,Brazil,2,2,FIFA World Cup qualification,True
+2020-10-06,Brazil,Portugal,3,1,FIFA World Cup qualification,False
+2020-10-10,Germany,Netherlands,1,1,FIFA World Cup qualification,True
+2020-10-12,Germany,Portugal,0,0,Friendly,True
+2020-10-12,England,Croatia,3,0,FIFA World Cup qualification,False
+2020-10-18,England,France,1,1,FIFA World Cup qualification,True
+2020-10-23,Belgium,Croatia,3,0,FIFA World Cup qualification,False
+2020-10-24,Portugal,France,0,1,FIFA World Cup qualification,True
+2020-10-26,Brazil,Italy,0,1,Friendly,False
+2020-11-11,Italy,Argentina,1,2,Friendly,True
+2020-11-22,Spain,Belgium,3,3,FIFA World Cup qualification,True
+2020-11-29,Uruguay,Argentina,2,2,Friendly,True
+2020-11-29,Germany,Uruguay,4,0,Friendly,True
+2020-12-01,Croatia,Argentina,1,2,Friendly,False
+2020-12-06,Croatia,Italy,1,0,FIFA World Cup qualification,False
+2020-12-10,Germany,Argentina,2,0,Friendly,False
+2020-12-10,Uruguay,Netherlands,1,4,Friendly,True
+2020-12-22,Belgium,France,2,2,FIFA World Cup qualification,True
+2021-01-01,France,Brazil,1,0,Friendly,False
+2021-01-04,Croatia,Germany,1,2,Friendly,True
+2021-01-22,Belgium,Germany,0,1,FIFA World Cup qualification,False
+2021-01-24,Croatia,Brazil,1,0,Friendly,True
+2021-02-04,Uruguay,Brazil,2,1,Friendly,True
+2021-02-22,France,Netherlands,6,0,FIFA World Cup qualification,False
+2021-03-01,England,Netherlands,0,2,FIFA World Cup qualification,True
+2021-03-05,Spain,Belgium,2,1,Friendly,True
+2021-03-07,Portugal,France,1,3,Friendly,False
+2021-03-10,France,Italy,2,0,Friendly,True
+2021-03-12,Netherlands,Germany,0,1,Friendly,False
+2021-03-14,Spain,Belgium,1,0,FIFA World Cup,False
+2021-03-14,Belgium,England,3,4,Friendly,False
+2021-03-16,Germany,Argentina,0,2,Friendly,False
+2021-03-26,Portugal,Netherlands,0,1,Friendly,True
+2021-04-05,Germany,England,2,1,Friendly,True
+2021-04-07,Belgium,Netherlands,2,2,Friendly,True
+2021-04-11,Portugal,Germany,0,1,Friendly,True
+2021-04-11,Netherlands,Portugal,1,2,Friendly,True
+2021-04-20,Netherlands,Brazil,2,2,Friendly,False
+2021-04-21,Netherlands,England,4,2,FIFA World Cup qualification,False
+2021-04-21,Spain,Brazil,1,2,Friendly,False
+2021-04-25,Croatia,Italy,0,1,Friendly,True
+2021-05-09,Spain,France,0,4,Friendly,True
+2021-05-13,Spain,Argentina,1,2,Friendly,False
+2021-05-17,Germany,Belgium,1,1,FIFA World Cup qualification,True
+2021-05-27,Croatia,Uruguay,2,4,Friendly,False
+2021-05-29,Argentina,Belgium,0,1,FIFA World Cup qualification,False
+2021-05-30,Spain,France,1,2,Friendly,False
+2021-06-06,Italy,Brazil,3,1,Friendly,False
+2021-07-08,Germany,Netherlands,1,4,FIFA World Cup qualification,True
+2021-07-09,Portugal,Italy,4,1,FIFA World Cup qualification,False
+2021-07-12,Argentina,Netherlands,3,0,Friendly,True
+2021-07-18,Uruguay,Portugal,1,2,FIFA World Cup qualification,True
+2021-07-20,Germany,Brazil,0,3,Friendly,True
+2021-07-20,Germany,England,1,2,FIFA World Cup qualification,False
+2021-07-20,Argentina,Brazil,5,3,Friendly,True
+2021-07-25,Uruguay,Croatia,1,0,Friendly,True
+2021-07-26,Croatia,Brazil,1,0,Friendly,True
+2021-07-30,Argentina,Spain,2,1,FIFA World Cup,True
+2021-08-02,Spain,Brazil,2,0,FIFA World Cup,False
+2021-08-03,Spain,Belgium,2,2,Friendly,False
+2021-08-07,France,Argentina,3,2,FIFA World Cup qualification,False
+2021-08-08,England,Uruguay,1,2,Friendly,False
+2021-08-11,France,Uruguay,2,1,FIFA World Cup qualification,False
+2021-08-14,Portugal,Spain,2,1,Friendly,True
+2021-08-15,Argentina,Italy,2,0,Friendly,True
+2021-08-19,Germany,Belgium,2,1,Friendly,False
+2021-08-26,France,England,2,2,Friendly,False
+2021-08-28,Italy,Argentina,0,0,Friendly,True
+2021-08-31,France,Spain,6,2,Friendly,True
+2021-09-01,Spain,Uruguay,5,1,FIFA World Cup qualification,False
+2021-09-04,Italy,Brazil,0,0,Friendly,False
+2021-09-04,England,Argentina,0,1,FIFA World Cup qualification,False
+2021-09-11,Brazil,England,1,1,FIFA World Cup qualification,True
+2021-09-18,Spain,Germany,4,0,FIFA World Cup qualification,True
+2021-09-23,Netherlands,Uruguay,2,1,Friendly,False
+2021-09-27,Argentina,Croatia,3,2,FIFA World Cup qualification,True
+2021-10-10,Uruguay,Portugal,0,0,Friendly,True
+2021-10-10,France,Portugal,2,1,Friendly,False
+2021-10-20,Belgium,England,0,1,FIFA World Cup qualification,False
+2021-10-21,England,Netherlands,1,1,FIFA World Cup qualification,False
+2021-11-02,Italy,Belgium,3,2,FIFA World Cup qualification,True
+2021-11-04,Netherlands,Argentina,0,5,Friendly,True
+2021-11-08,Croatia,Spain,1,0,Friendly,False
+2021-11-19,Argentina,Belgium,1,0,Friendly,True
+2021-11-30,England,Portugal,1,3,Friendly,False
+2021-12-03,Belgium,Argentina,2,1,Friendly,True
+2021-12-03,England,Italy,1,1,Friendly,True
+2021-12-12,Uruguay,France,0,3,Friendly,True
+2021-12-15,France,Belgium,3,0,FIFA World Cup qualification,False
+2021-12-15,Spain,France,4,3,FIFA World Cup qualification,True
+2021-12-17,Netherlands,Portugal,3,0,Friendly,False
+2021-12-22,Portugal,France,1,2,FIFA World Cup qualification,True
+2021-12-23,Portugal,England,1,1,Friendly,False
+2022-01-07,Germany,Uruguay,2,1,Friendly,False
+2022-01-08,Germany,Croatia,0,2,Friendly,False
+2022-01-13,Uruguay,Belgium,2,1,FIFA World Cup,False
+2022-01-20,Spain,Belgium,1,2,Friendly,False
+2022-01-21,Portugal,Brazil,2,0,FIFA World Cup qualification,True
+2022-01-21,Portugal,Germany,0,0,FIFA World Cup qualification,False
+2022-02-18,France,Netherlands,3,3,Friendly,False
+2022-03-05,Uruguay,Netherlands,3,3,FIFA World Cup,False
+2022-03-23,Italy,Germany,1,4,Friendly,False
+2022-04-05,Uruguay,Belgium,0,2,Friendly,False
+2022-04-06,Croatia,Spain,1,1,FIFA World Cup qualification,False
+2022-04-08,Croatia,France,2,5,FIFA World Cup qualification,True
+2022-04-10,Italy,Croatia,3,1,Friendly,True
+2022-04-15,Italy,Brazil,2,1,Friendly,False
+2022-04-15,Belgium,Italy,4,0,Friendly,True
+2022-04-21,Brazil,Uruguay,1,0,Friendly,True
+2022-04-21,Italy,Belgium,1,1,FIFA World Cup qualification,True
+2022-04-22,Belgium,Portugal,0,1,Friendly,False
+2022-04-22,England,Uruguay,1,1,Friendly,True
+2022-04-22,Uruguay,France,0,1,FIFA World Cup,True
+2022-04-22,England,Netherlands,1,0,Friendly,True
+2022-04-27,England,Croatia,0,0,Friendly,True
+2022-04-27,Uruguay,Spain,1,3,FIFA World Cup qualification,True
+2022-05-05,Uruguay,Netherlands,1,3,Friendly,False
+2022-05-05,Portugal,Belgium,3,1,FIFA World Cup,False
+2022-05-10,England,Portugal,4,2,FIFA World Cup qualification,False
+2022-05-19,Argentina,Brazil,0,1,Friendly,True
+2022-05-19,Uruguay,Italy,2,1,FIFA World Cup qualification,True
+2022-05-21,England,Spain,0,1,Friendly,False
+2022-05-21,Brazil,Netherlands,1,1,Friendly,False
+2022-05-22,Italy,England,0,2,Friendly,False
+2022-05-24,Germany,England,1,1,FIFA World Cup qualification,True
+2022-06-15,England,Spain,1,1,FIFA World Cup qualification,True
+2022-06-20,Argentina,England,3,2,Friendly,False
+2022-06-26,Italy,Netherlands,1,2,Friendly,False
+2022-06-26,Uruguay,Netherlands,3,0,Friendly,True
+2022-07-04,Portugal,England,0,0,Friendly,True
+2022-07-16,Uruguay,Spain,1,2,Friendly,True
+2022-07-16,Italy,Brazil,1,1,Friendly,False
+2022-07-17,Uruguay,Argentina,3,2,Friendly,True
+2022-07-23,Germany,Spain,0,1,Friendly,False
+2022-07-27,Netherlands,Germany,1,0,Friendly,False
+2022-07-28,Italy,Netherlands,2,1,FIFA World Cup,False
+2022-07-29,Belgium,Netherlands,1,0,FIFA World Cup qualification,False
+2022-08-05,Belgium,Portugal,1,3,Friendly,False
+2022-08-08,Uruguay,France,2,1,FIFA World Cup qualification,True
+2022-08-09,France,England,0,2,FIFA World Cup qualification,True
+2022-08-27,Netherlands,Brazil,0,2,Friendly,True
+2022-08-30,Germany,Brazil,0,2,FIFA World Cup qualification,True
+2022-08-30,Germany,Italy,1,1,FIFA World Cup qualification,True
+2022-09-02,Germany,France,1,0,Friendly,False
+2022-09-04,France,Netherlands,1,0,Friendly,False
+2022-09-08,Uruguay,Germany,0,2,Friendly,False
+2022-09-13,Argentina,Spain,1,3,Friendly,True
+2022-10-08,Italy,England,1,1,Friendly,True
+2022-10-11,Brazil,Germany,0,3,Friendly,False
+2022-10-19,Brazil,France,2,2,Friendly,False
+2022-10-20,Brazil,Uruguay,1,3,Friendly,False
+2022-10-21,France,Germany,0,1,FIFA World Cup qualification,True
+2022-10-24,Uruguay,Germany,2,1,FIFA World Cup qualification,True
+2022-10-25,France,Netherlands,2,1,Friendly,False
+2022-10-25,Portugal,Belgium,0,2,Friendly,False
+2022-11-01,Germany,Italy,6,1,Friendly,False
+2022-11-03,Italy,Uruguay,3,1,Friendly,False
+2022-11-05,Brazil,Netherlands,1,3,FIFA World Cup qualification,True
+2022-11-05,Belgium,Croatia,1,0,Friendly,False
+2022-11-14,Germany,Argentina,3,3,Friendly,False
+2022-11-17,Portugal,Belgium,2,0,Friendly,True
+2022-11-18,Portugal,Uruguay,1,0,Friendly,True
+2022-11-21,Belgium,Germany,1,3,Friendly,False
+2022-11-26,France,England,4,1,FIFA World Cup qualification,False
+2022-11-27,Italy,Netherlands,0,1,Friendly,False
+2022-12-02,Uruguay,Brazil,1,4,Friendly,False
+2022-12-07,Brazil,Argentina,2,0,FIFA World Cup,True
+2022-12-11,Brazil,Germany,1,0,FIFA World Cup qualification,True
+2022-12-16,Argentina,Italy,0,1,Friendly,True
+2022-12-17,Portugal,Uruguay,4,1,FIFA World Cup qualification,False
+2022-12-30,Croatia,Portugal,0,4,Friendly,False
+2023-01-01,Argentina,Spain,4,1,Friendly,True
+2023-01-03,Croatia,France,0,4,Friendly,True
+2023-01-14,Brazil,France,3,0,FIFA World Cup qualification,False
+2023-01-15,Croatia,Italy,1,2,Friendly,True
+2023-01-20,Uruguay,England,0,2,FIFA World Cup qualification,False
+2023-01-23,Netherlands,Brazil,0,3,FIFA World Cup qualification,False
+2023-01-25,Italy,Portugal,1,0,Friendly,False
+2023-02-02,England,Spain,0,0,Friendly,True
+2023-02-07,Uruguay,Netherlands,1,0,Friendly,True
+2023-02-10,Croatia,Belgium,3,2,FIFA World Cup qualification,False
+2023-02-26,England,Italy,1,1,FIFA World Cup qualification,False
+2023-03-08,Germany,Argentina,1,2,Friendly,False
+2023-03-12,Uruguay,Netherlands,1,1,Friendly,False
+2023-03-19,Portugal,France,1,2,Friendly,True
+2023-03-27,Italy,Portugal,2,1,Friendly,False
+2023-03-31,Argentina,Portugal,4,2,FIFA World Cup qualification,True
+2023-04-11,Brazil,France,2,3,Friendly,False
+2023-04-20,Brazil,Uruguay,2,0,Friendly,False
+2023-04-21,Uruguay,England,2,2,Friendly,True
+2023-04-24,Germany,Italy,1,2,Friendly,True
+2023-05-06,Germany,Portugal,0,1,FIFA World Cup qualification,False
+2023-05-06,Germany,Croatia,2,0,Friendly,True
+2023-05-09,Belgium,England,2,1,Friendly,False
+2023-05-12,Italy,Germany,1,3,FIFA World Cup qualification,True
+2023-05-23,Croatia,Uruguay,2,2,Friendly,True
+2023-05-28,Spain,Croatia,1,1,Friendly,True
+2023-05-28,Uruguay,Netherlands,1,3,Friendly,True
+2023-05-29,France,Portugal,2,0,FIFA World Cup,False
+2023-06-01,Germany,Argentina,0,2,FIFA World Cup,False
+2023-06-12,France,Netherlands,1,1,Friendly,False
+2023-06-19,Croatia,Portugal,1,1,FIFA World Cup qualification,False
+2023-06-21,Belgium,Brazil,3,1,Friendly,True
+2023-06-22,Uruguay,Germany,1,0,Friendly,False
+2023-06-24,Croatia,Uruguay,0,2,FIFA World Cup qualification,False
+2023-07-01,Netherlands,Belgium,3,3,Friendly,True
+2023-07-03,Belgium,Spain,0,3,FIFA World Cup,False
+2023-07-06,Germany,France,2,2,Friendly,False
+2023-07-15,England,France,2,1,FIFA World Cup qualification,True
+2023-07-19,Argentina,France,3,0,FIFA World Cup qualification,True
+2023-07-20,Uruguay,Netherlands,1,2,FIFA World Cup qualification,True
+2023-08-01,France,Germany,1,0,Friendly,True
+2023-08-10,Italy,Portugal,0,0,FIFA World Cup,True
+2023-08-11,Croatia,Spain,1,0,Friendly,True
+2023-08-11,Netherlands,Brazil,2,1,Friendly,True
+2023-08-12,Uruguay,Portugal,2,2,FIFA World Cup,False
+2023-08-27,England,Germany,0,2,FIFA World Cup qualification,True
+2023-08-28,Belgium,Argentina,1,1,Friendly,False
+2023-09-05,France,Argentina,1,1,Friendly,True
+2023-09-06,Netherlands,Portugal,1,2,FIFA World Cup qualification,False
+2023-09-09,Uruguay,Croatia,2,6,FIFA World Cup qualification,False
